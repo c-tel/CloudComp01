@@ -1,7 +1,6 @@
 import java.util.Comparator;
 //stas
 //Dashaaaaaaaaaaaa
->>>>>>> d5bdf59e79ce786597a09370d68d59bfa8b5785b
 public class Movie implements Comparable<Movie> {
     String name;
     int year;
